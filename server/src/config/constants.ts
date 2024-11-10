@@ -1,0 +1,1 @@
+export const SECREAT_KEY='your stripe key'
